@@ -1,0 +1,114 @@
+body
+{
+	
+	background-image: url("images/ciel-étoilé.jpg");
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-size:100%;
+
+}
+
+.gradient 
+	{ 
+		color: white;
+		margin-top: 5%;
+		height: 350px; width: 250px;
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		justify-content: space-around;
+		background-image:linear-gradient(to top right, grey, #88c1d0);
+	}
+
+
+.gradient2 
+	{ 
+		color: white;
+		margin-top: 2%;
+		height: 650px; width: 550px;
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		justify-content: space-around;
+		background-image:linear-gradient(to top right, grey, #88c1d0);
+	}
+
+	.g3
+	{
+		display: flex;
+		flex-direction: column;
+		width: 500px;
+		text-align: center;
+		font-family: 'Kaushan Script', cursive;
+		margin: auto;
+		
+	}
+
+button
+{
+	align-self: center;
+	margin-top: 5%;
+}
+
+.P1
+{	
+	font-family: 'Ma Shan Zheng', cursive;
+	display: flex;
+	flex-direction: column;
+	align-items:center;
+	font-size: 35px;
+}
+h1
+{
+	color: white;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 55px;
+}
+
+.P2
+{
+	color:white;
+	font-size: 60px;
+	font-family: 'Ma Shan Zheng', cursive;
+}
+
+
+.a1{
+	font-size: 20px;
+}
+
+.g4
+{
+		color: white;
+		margin-top: 2%;
+		height: 450px; width: 350px;
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		justify-content: space-around;
+		align-items: center;
+		background-image:linear-gradient(to top right, grey, #88c1d0);
+		font-family: 'Ma Shan Zheng', cursive;
+}
+
+.g5
+{
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		font-size: 40px;
+		justify-content: space-around;
+		align-items: center
+		width: 500px;
+}
+
+.A2
+{
+	margin-top: 1%;
+}
+
+.b
+{
+	background-image: url("images/images.gif");
+}
